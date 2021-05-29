@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I am Francesco! 👋
+
+I am an Assistant Professor of Data Science and Accounting Information Systems at Bocconi University.
+
+I try to understand what companies (and managers) write in their reports using Natural Language Processing techniques. 
 
 <!--
 **contefranz/contefranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
